@@ -53,4 +53,16 @@ The dataset contains 8 features.
 
 After analyzing Correlations between features, we detected high correlation between Feature 5 & 6. We keep both because deleting one of them results in worse predictions. After analyzing Features Importance, we detected most important features: 3 & 6 and least important: 7 & 8. Features 7 & 8 were removed in order to reduce noise.
 
+**Params:**
+- RandomForestClassifier(random_state = 1990)
+- 'bootstrap': True,
+- 'criterion': 'gini',
+- 'max_depth': 16,
+- 'max_features': 3,
+- 'max_leaf_nodes': 128,
+- 'n_estimators': 256,
+- 'n_jobs': 4, 
+- 'cv': 5,
+- 'verbose': 4,
+
 # License
