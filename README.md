@@ -1,4 +1,4 @@
-# Results of Hackathon: **Ranking #1**
+# Results of Hackathon: **Ranking #1** 🥇 
 ![First Place](https://github.com/GVRQ/J2D_Data-Science_2022/blob/main/img/rank.png?raw=true)
 
 
