@@ -1,3 +1,6 @@
+# Results of Hackathon: **Ranking #1**
+![First Place](https://github.com/GVRQ/J2D_Data-Science_2022/blob/main/img/rank.png?raw=true)
+
 
 <h3 style="text-align: left;" align="left">Connect with me:</h3>
 <p style="text-align: left;" align="left"><a href="https://t.me/gavrilov_se" target="blank"><img style="float: left;" src="https://www.svgrepo.com/show/349527/telegram.svg" alt="Telegram_Alexander_Gavrilov_Data_Scientist" width="40" height="30" align="center" /></a>&nbsp;<a href="mailto:alexander@gavrilov.se" target="blank"><img src="https://www.clipartmax.com/png/full/91-913506_computer-icons-email-address-clip-art-icon-email-vector-png.png" alt="Email_Alexander_Gavrilov_Data_Scientist" width="30" height="30" align="center" /></a>&nbsp; <a href="https://www.linkedin.com/in/GVRQ/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" alt="Linkedin_Alexander_Gavrilov_Data_Scientist" width="30" height="30" align="center" /></a></p>
